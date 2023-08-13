@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GaneshNair91
-- 👀 I’m interested in Data Sciene, Machine Learning , Power BI
+- 👀 I’m interested in Data Sciene, Machine Learning ,Power BI
 - 🌱 I’m currently learning Python, Statistics and Machine Learning
+- I'm also  a Microsoft Certified Power BI Nalyst
 - 💞️ I’m looking to collaborate on Data Visualisation, EDA and other stuff related to Model Building
 - 📫 How to reach me Ganesh.Nair91@outlook.com
 
